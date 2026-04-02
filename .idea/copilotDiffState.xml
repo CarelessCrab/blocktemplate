@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="/gradle (snapshot).properties">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="/gradle (snapshot).properties" />
+              <option name="originalContent" value="org.gradle.jvmargs=-Xmx3G&#10;minecraft_version=1.19.2&#10;minecraft_version_range=[1.19.2,1.20)&#10;forge_version=43.2.0&#10;forge_version_range=[43.2.0,)&#10;loader_version_range=[43,)&#10;mod_id=examplemod&#10;mod_name=Example Mod&#10;mod_license=All rights reserved&#10;mod_version=1.0&#10;mod_author=YourName&#10;mod_description=Example mod description&#10;pack_format_number=9&#10;forge_version_range=[43,)&#10;minecraft_version_range=[1.19.2,1.20)&#10;" />
+              <option name="updatedContent" value="org.gradle.jvmargs=-Xmx3G&#10;minecraft_version=1.20.1&#10;minecraft_version_range=[1.20.1,1.20.2)&#10;neoforge_version=47.1.0&#10;neoforge_version_range=[47.1.0,)&#10;loader_version_range=[47,)&#10;mod_id=examplemod&#10;mod_name=Example Mod&#10;mod_license=All rights reserved&#10;mod_version=1.0&#10;mod_author=YourName&#10;mod_description=Example mod description&#10;pack_format_number=15" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

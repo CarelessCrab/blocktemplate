@@ -2,7 +2,7 @@
     "pack": {
         "description": "examplemod resources",
         "pack_format": ${pack_format_number},
-        "forge:data_pack_format": 10,
-        "forge:resource_pack_format": 9
+        "forge:data_pack_format": 15,
+        "forge:resource_pack_format": 13
     }
 }
